@@ -25,5 +25,5 @@ sudo apt-get update
 ## Lihat daftar container yang berada pada docker
 ```sudo docker container ls -a```
 
-## Jalankan container yang mengandung container Hivemq
+## Jalankan container yang mengandung Hivemq
 ```sudo docker container start [container id HiveMQ]```
